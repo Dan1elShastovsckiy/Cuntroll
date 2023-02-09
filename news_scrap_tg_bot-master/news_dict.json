@@ -1,0 +1,182 @@
+{
+    "536357": {
+        "article_date_timestamp": 1675838010.0,
+        "article_title": "Bing  использует «гораздо более мощную» языковую модель, чем ChatGPT",
+        "article_url": "https://www.securitylab.ru/news/536357.php",
+        "article_desc": "Пользователи могут опробовать обновлённую поисковую систему уже сегодня."
+    },
+    "536356": {
+        "article_date_timestamp": 1675836927.0,
+        "article_title": "Компания Google представила собственный аналог ChatGPT",
+        "article_url": "https://www.securitylab.ru/news/536356.php",
+        "article_desc": "Новый экспериментальный сервис разговорного искусственного интеллекта называется Bard."
+    },
+    "536355": {
+        "article_date_timestamp": 1675836620.0,
+        "article_title": "Сенаторы США пожаловались Цукербергу на риск попадания данных пользователей Facebook* в руки 42 000 разработчиков из России",
+        "article_url": "https://www.securitylab.ru/news/536355.php",
+        "article_desc": "Власти опасаются, что это может способствовать шпионажу."
+    },
+    "536353": {
+        "article_date_timestamp": 1675796700.0,
+        "article_title": "Полиция Гонконга в сотрудничестве с Интерполом раскрыла глобальный фишинговый синдикат",
+        "article_url": "https://www.securitylab.ru/news/536353.php",
+        "article_desc": "Сотни поддельных мобильных приложений использовались киберпреступниками для слежки и сбора личных данных."
+    },
+    "536352": {
+        "article_date_timestamp": 1675794900.0,
+        "article_title": "Шустро: Fortra выпустила экстренный патч для уязвимости GoAnywhere MFT",
+        "article_url": "https://www.securitylab.ru/news/536352.php",
+        "article_desc": "Компания оперативно отреагировала на слитые в сеть PoC-экплойты и призвала клиентов обновить софт до последней версии."
+    },
+    "536354": {
+        "article_date_timestamp": 1675793100.0,
+        "article_title": "В ногу со временем: сервис Quora представил своего чат-бота Poe",
+        "article_url": "https://www.securitylab.ru/news/536354.php",
+        "article_desc": "Пользователь сможет выбрать – какой из 3-х собеседников будет отвечать на его вопросы."
+    },
+    "536351": {
+        "article_date_timestamp": 1675790700.0,
+        "article_title": "Лучше поздно, чем никогда: вымогатели из LockBit признались, что именно они атаковала Royal Mail в январе",
+        "article_url": "https://www.securitylab.ru/news/536351.php",
+        "article_desc": "Группировка обещает скоро опубликовать украденные данные, если не получит выкуп."
+    },
+    "536350": {
+        "article_date_timestamp": 1675782037.0,
+        "article_title": "Загрузчик GuLoader стал главной опасностью для электронной коммерции в самых технологичных странах",
+        "article_url": "https://www.securitylab.ru/news/536350.php",
+        "article_desc": "GuLoader теперь распространяется через разработчика плеера Winamp."
+    },
+    "536347": {
+        "article_date_timestamp": 1675780236.0,
+        "article_title": "Новый банковский троян TgToxic атакует пользователей Android в Юго-Восточной Азии",
+        "article_url": "https://www.securitylab.ru/news/536347.php",
+        "article_desc": "Хакеры научились автоматизировать атаки, имитируя нажатия и жесты пользователей."
+    },
+    "536348": {
+        "article_date_timestamp": 1675778100.0,
+        "article_title": "Жертвы вымогателя Clop для Linux на протяжении нескольких месяцев бесплатно расшифровывали свои данные",
+        "article_url": "https://www.securitylab.ru/news/536348.php",
+        "article_desc": "Досадный недочёт в коде шифровальщика не позволил хакерам как следует заработать."
+    },
+    "536345": {
+        "article_date_timestamp": 1675774822.0,
+        "article_title": "Baidu представил своего чат-бота, который станет конкурентом ChatGPT",
+        "article_url": "https://www.securitylab.ru/news/536345.php",
+        "article_desc": "Baidu утверждает, что ERNIE Bot превосходит всех конкурентов, включая ChatGPT."
+    },
+    "536346": {
+        "article_date_timestamp": 1675773929.0,
+        "article_title": "Австралийский депутат боится «массового уничтожения» от рук ИИ",
+        "article_url": "https://www.securitylab.ru/news/536346.php",
+        "article_desc": "Парламентарий считает, что если подобные технологии выйдут из-под контроля человека, то могут «причинить значительный вред человечеству»."
+    },
+    "536344": {
+        "article_date_timestamp": 1675772700.0,
+        "article_title": "Британская сталелитейная компания Vesuvius пострадала от атаки киберпреступников",
+        "article_url": "https://www.securitylab.ru/news/536344.php",
+        "article_desc": "Специалистам по безопасности пришлось на время отключить затронутые системы, чтобы определить масштаб инцидента."
+    },
+    "536343": {
+        "article_date_timestamp": 1675766700.0,
+        "article_title": "ChatGPT - новая «золотая жила» для миллионных заработков",
+        "article_url": "https://www.securitylab.ru/news/536343.php",
+        "article_desc": "The Verge опубликовал статью, посвященную тому, как \"финансовые авторитеты\" используют чат-бот OpenAI."
+    },
+    "536342": {
+        "article_date_timestamp": 1675765192.0,
+        "article_title": "Анонимный мессенджер Exclu был закрыт в ходе международной операции правоохранительных органов",
+        "article_url": "https://www.securitylab.ru/news/536342.php",
+        "article_desc": "Exclu Starter Pack - миллионы евро наличными, лаборатории и преступные организации."
+    },
+    "536390": {
+        "article_date_timestamp": 1675964700.0,
+        "article_title": "Уличная магия: мошенники украли $4 млн. в криптовалюте во время личной встречи со своей жертвой",
+        "article_url": "https://www.securitylab.ru/news/536390.php",
+        "article_desc": "Лучшие умы кибербезопасности до сих пор ломают голову, как же произошло похищение."
+    },
+    "536387": {
+        "article_date_timestamp": 1675958100.0,
+        "article_title": "Android 14 станет ещё безопаснее – вредоносы не пройдут!",
+        "article_url": "https://www.securitylab.ru/news/536387.php",
+        "article_desc": "Зелёный робот получит множество изменений, направленных на сохранение конфиденциальности данных."
+    },
+    "536386": {
+        "article_date_timestamp": 1675950900.0,
+        "article_title": "Вредоносные игровые моды для Dota 2 заразили сотни игроков вредоносным ПО",
+        "article_url": "https://www.securitylab.ru/news/536386.php",
+        "article_desc": "Модификации были размещены в Steam WorkShop и не вызывали подозрений."
+    },
+    "536385": {
+        "article_date_timestamp": 1675947600.0,
+        "article_title": "Новая версия программы-вымогателя ESXiArgs предотвращает любую возможность восстановления данных",
+        "article_url": "https://www.securitylab.ru/news/536385.php",
+        "article_desc": "Виртуальные машины в опасности, а специалисты бессильны."
+    },
+    "536384": {
+        "article_date_timestamp": 1675945665.0,
+        "article_title": "Google потеряла $100 млрд. после провальной презентации чат-бота Bard",
+        "article_url": "https://www.securitylab.ru/news/536384.php",
+        "article_desc": "В спешке догнать конкурентов корпорация совершила ошибку, которая привела к спаду стоимости акций."
+    },
+    "536383": {
+        "article_date_timestamp": 1675941064.0,
+        "article_title": "Мошенник убедил мужчину оформить кредит и поджечь отделение Сбера",
+        "article_url": "https://www.securitylab.ru/news/536383.php",
+        "article_desc": "Прибыль злоумышленника составила почти 1,4 млн. рублей и один офис банка."
+    },
+    "536382": {
+        "article_date_timestamp": 1675938300.0,
+        "article_title": "Android-смартфоны из Китая поставляются со встроенным шпионским ПО",
+        "article_url": "https://www.securitylab.ru/news/536382.php",
+        "article_desc": "Данные передаются не только производителю, но и китайским мобильным операторам, и даже за пределами Китая."
+    },
+    "536381": {
+        "article_date_timestamp": 1675936500.0,
+        "article_title": "Популярные за рубежом офисные пакеты уже несколько месяцев уязвимы для атак хакеров",
+        "article_url": "https://www.securitylab.ru/news/536381.php",
+        "article_desc": "Пользователи сразу четырёх систем для работы с документами в опасности."
+    },
+    "536378": {
+        "article_date_timestamp": 1675934700.0,
+        "article_title": "Киберпреступники используют API ChatGPT для обхода контентных ограничений",
+        "article_url": "https://www.securitylab.ru/news/536378.php",
+        "article_desc": "API-версия чат-бота позволяет создавать вредоносное ПО прямо в Telegram."
+    },
+    "536380": {
+        "article_date_timestamp": 1675934011.0,
+        "article_title": "Заказчики смогут бесплатно принять участие в «Магнитке 2023»",
+        "article_url": "https://www.securitylab.ru/news/536380.php",
+        "article_desc": "В знакомой многим специалистам ИБ «Магнитке» состоится новое деловое мероприятие."
+    },
+    "536377": {
+        "article_date_timestamp": 1675932925.0,
+        "article_title": "Росфинмониторинг рассказал о новой схеме мошенничества",
+        "article_url": "https://www.securitylab.ru/news/536377.php",
+        "article_desc": "Злоумышленники от лица Росфинмониторинга рассылают сообщения о мнимом изъятии средств."
+    },
+    "536376": {
+        "article_date_timestamp": 1675930800.0,
+        "article_title": "В США стандартизируют криптографический алгоритм Ascon для IoT-устройств",
+        "article_url": "https://www.securitylab.ru/news/536376.php",
+        "article_desc": "Конфиденциальность и безопасность Интернета вещей скоро выйдет на новый уровень."
+    },
+    "536374": {
+        "article_date_timestamp": 1675929000.0,
+        "article_title": "Власти Великобритании предложили ввести уголовную ответственность за хранение и продажу зашифрованных телефонов",
+        "article_url": "https://www.securitylab.ru/news/536374.php",
+        "article_desc": "По словам МВД страны, шифрование таких телефонов создает преграды для правоохранительных органов."
+    },
+    "536373": {
+        "article_date_timestamp": 1675927200.0,
+        "article_title": "Создана нейросеть для генерации фоторобота преступников",
+        "article_url": "https://www.securitylab.ru/news/536373.php",
+        "article_desc": "Теперь ИИ будет выбирать, кого сажать в тюрьму, основываясь на человеческих предубеждениях и стереотипах."
+    },
+    "536375": {
+        "article_date_timestamp": 1675925349.0,
+        "article_title": "Группировка Nodaria использует новый инфостилер в атаках на госучреждения Украины",
+        "article_url": "https://www.securitylab.ru/news/536375.php",
+        "article_desc": "Программа написана на Golang и является улучшенной версией бэкдоров группы."
+    }
+}
